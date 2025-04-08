@@ -2,8 +2,12 @@
 
 ## My Online Greedy Approach
 
-Describe your online algorithm here.
+TODO: Describe your online algorithm here.
 
 ## My Offline Greedy Approach
 
-Describe your offline algorithm here.
+TODO: Describe your offline algorithm here.
+
+## Code Reflection
+
+TODO: Provide your code reflection here.

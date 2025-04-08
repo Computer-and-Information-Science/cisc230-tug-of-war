@@ -12,7 +12,7 @@ solution to the problem. For an optimal solution, the number of participants
 on each team will differ by no more than one, and the different in total
 weight between the two team would be as small as possible.
 
-The starter code given is an onilne approach that simply alternates
+The starter code given is an online approach that simply alternates
 participants between teams, but makes no attempt to achieve a near optimal
 solution. An offline approach was presented in class that pre-sorts the
 participant list then alternates participants between teams.
@@ -20,6 +20,15 @@ participant list then alternates participants between teams.
 Your solutions should make some attempt to be better than the two mentioned
 above. The actual algorithms are up to you.
 
+## Algorithms and Code Reflection
+
 In addition to coding your algorithms, describe your approach for each
-algorithm in a paragraph or two. Provide your descriptions in file
-*RESPONSES.md*.
+of the two algorithms in a paragraph or two.
+
+After completing your code, write a short discussion on your experience
+implementing these algorithms. Discuss any difficulties you encountered
+and how you overcame those difficulties if any, or any particular successes
+you had.
+Also, discuss how you tested your code.
+
+Provide your descriptions in file *RESPONSES.md*.
