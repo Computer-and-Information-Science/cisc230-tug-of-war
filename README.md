@@ -20,15 +20,17 @@ participant list then alternates participants between teams.
 Your solutions should make some attempt to be better than the two mentioned
 above. The actual algorithms are up to you.
 
-## Algorithms and Code Reflection
+## Discussion and Reflection
 
-In addition to coding your algorithms, describe your approach for each
-of the two algorithms in a paragraph or two.
+In addition to coding your algorithms, address the followin points in
+file *RESPONSES.md*.
 
-After completing your code, write a short discussion on your experience
-implementing these algorithms. Discuss any difficulties you encountered
-and how you overcame those difficulties if any, or any particular successes
-you had.
-Also, discuss how you tested your code.
+For each of the two algorithms:
 
-Provide your descriptions in file *RESPONSES.md*.
+- Describe your algorithm in general terms.
+- Why as the algorithm greedy, and why is it classified as online or offline?
+- What challenges did you encounter during development and testing?
+- How did you test your code and verify the results?
+- How effective is your algorithm in achieving a near-optimal solution? (Or how is it ineffective and why?)
+
+List any outside resources you used to research and/or compolete this assignment.
